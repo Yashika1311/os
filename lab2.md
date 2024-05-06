@@ -11,6 +11,13 @@ Exercise_3 - Store the output of the command “hostname” in a variable. Displ
 <img width="490" alt="Screenshot 2024-05-06 at 6 31 13 PM" src="https://github.com/Yashika1311/os/assets/142776188/f6b87255-5d40-4364-a656-705478c823a0">
 
 
+Exercise_4 - Write a shell script to check to see if the file “file_path” exists. If it does exist, display “file_path passwords are enabled.” Next, check to see if you can write to the file. If you can, display “You have permissions to edit “file_path.””If you cannot, display “You do NOT have permissions to edit “file_path””
+
+
+<img width="516" alt="Screenshot 2024-05-07 at 12 29 49 AM" src="https://github.com/Yashika1311/os/assets/142776188/3f570a63-ca27-4821-8433-d289df257aa7">
+
+
+
 
 
 
